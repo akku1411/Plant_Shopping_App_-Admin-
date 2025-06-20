@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "957522517302",
+    "project_id": "plant-store-9f5b4",
+    "storage_bucket": "plant-store-9f5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957522517302:android:7fd03deac1406fd7eaa797",
+        "android_client_info": {
+          "package_name": "com.plantstore.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957522517302-09q6adc0j2ejgh6n91oqbd4attta2s7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ea-M1DKA2-oI3s_BpBUyFy2XKygFFvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957522517302-07dkqjgumo1jkr48bv62igcaklnp62li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957522517302:android:cacb2d02dbea0157eaa797",
+        "android_client_info": {
+          "package_name": "com.plantstore.plantstoreadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957522517302-bgppusovg2msehrl9ra5a217130ts7be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plantstore.plantstoreadmin",
+            "certificate_hash": "fe5a360cbe7c770255ed39d3003fe8821bfa9fb0"
+          }
+        },
+        {
+          "client_id": "957522517302-09q6adc0j2ejgh6n91oqbd4attta2s7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ea-M1DKA2-oI3s_BpBUyFy2XKygFFvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957522517302-07dkqjgumo1jkr48bv62igcaklnp62li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
